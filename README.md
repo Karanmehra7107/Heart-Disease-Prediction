@@ -34,6 +34,7 @@ As we all know, Heart-Diseases are increasing world wide with rapid increase of 
 ![download](https://user-images.githubusercontent.com/62024355/87929154-9a929880-caa3-11ea-9035-e012cf368076.png)
 
 
+Random Forest Classifier Accuracy with n_estimators=90 is: 83.82%
 
 ## Team
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fs4h7fZ/Pics-Art-05-30-07-58-11.jpg" alt="PicsArt_05-30-07.58.11" border="0">
